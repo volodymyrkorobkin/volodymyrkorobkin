@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @volodymyrkorobkin.
-- 👀 I’m interested in Computer Science, IT..
+- 👀 I’m interested in Computer Science, IT...
 - 🌱 I’m currently learning css, rust.
 - 💞️ I’m looking to collaborate on any intrasting projects.
 
